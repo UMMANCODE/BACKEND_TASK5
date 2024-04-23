@@ -4110,11 +4110,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\WebApplication5\\WebApplication5\\WebApplication5.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Code Academy\\BACKEND\\TASK5\\WebApplication5\\WebApplication5.csproj",
       "projectName": "WebApplication5",
-      "projectPath": "C:\\Users\\user\\source\\repos\\WebApplication5\\WebApplication5\\WebApplication5.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\Code Academy\\BACKEND\\TASK5\\WebApplication5\\WebApplication5.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\WebApplication5\\WebApplication5\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Code Academy\\BACKEND\\TASK5\\WebApplication5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

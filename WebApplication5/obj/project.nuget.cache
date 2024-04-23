@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+2bjGnI9ucNhwakz5OLE8MTbfEOjrEp8RMbxOsSdBhS9wvYDB4cfG6EaC3eAVfkBFh/SJjr53aIVCE3UvZzG2A==",
+  "dgSpecHash": "0PtbmuCnobdwSWPpBbMbg0G+afadJxnNv8k+BZu/YnbDrK6z7CV0xbABHIsVj4PHpkt7mk6aTZcuJiGY3nJF9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\source\\repos\\WebApplication5\\WebApplication5\\WebApplication5.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Code Academy\\BACKEND\\TASK5\\WebApplication5\\WebApplication5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
